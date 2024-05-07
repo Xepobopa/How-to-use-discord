@@ -1,5 +1,5 @@
 # How to use discord
-This is an instuction about how to use a voice functionality in Discord
+This is an instuction about how to use voice functions in Discord
 
 
 # Использование голосовых комнат в Discord
